@@ -13,6 +13,15 @@
 
 </div>
 
+## Related Projects
+
+- [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — Predecessor use-case index and clearly labeled Claude Fable 5 baseline archive.
+- [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — Command-line access to MuAPI models, useful when Fable 5.1 becomes available there.
+- [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — Schema-driven agent skills for image, video, and audio workflows through MuAPI.
+- [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — Production-ready AI SaaS templates for turning model workflows into applications.
+- [MuAPI model catalog](https://muapi.ai/docs/models) — Current model availability and integration documentation.
+- [MuAPI playground](https://muapi.ai/playground) — Interactive access to available models while the Fable 5.1 MuAPI route is being prepared.
+
 ## 🍌 Introduction
 
 Welcome to the Claude Fable 5.1 high-signal use case repository.
