@@ -16,6 +16,7 @@
 ## Related Projects
 
 - [awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) — Predecessor use-case index and clearly labeled Claude Fable 5 baseline archive.
+- [awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) — Cross-model companion covering evidence-backed GPT-6 Astra workflows, API patterns, evaluations, and safety notes.
 - [muapi-cli](https://github.com/SamurAIGPT/muapi-cli) — Command-line access to MuAPI models, useful when Fable 5.1 becomes available there.
 - [Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — Schema-driven agent skills for image, video, and audio workflows through MuAPI.
 - [awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — Production-ready AI SaaS templates for turning model workflows into applications.
